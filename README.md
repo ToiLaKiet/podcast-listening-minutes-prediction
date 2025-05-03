@@ -3,4 +3,4 @@ A competition of playground series from Kaggle. I have learned to employ a XG Bo
 
 :)) but the performance is very poor. this is my first competition finished
 
-this work lacks deeper feature insights. i think i did not perform well in combining features together or making the features become more meaningful
+this work of mine lacks deeper feature engineer and analytics. i think i did not perform well in combining features together or making the features become more meaningful
